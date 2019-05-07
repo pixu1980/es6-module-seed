@@ -1,6 +1,6 @@
 {
   "name": "es6-module-seed",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Seed for creating js modules written in ES6+",
   "main": "dist/module.min.js",
   "browser": "dist/module.browser.min.js",
